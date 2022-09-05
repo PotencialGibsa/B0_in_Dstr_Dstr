@@ -1,8 +1,8 @@
-# B0_in_Dstr_Dstr [04.09.2022]
-The Search of the B0 decay in the Dstr and anti Dstr. The repository contains the Xb_frame file, the MySelector file and the code for creating graphics.
+# B0s_in_Dstr_Dstr [04.09.2022]
+The Search of the B0s decay in the Dstr and anti Dstr. The repository contains the Xb_frame file, the MySelector file and the code for creating graphics.
 
 ## The data used:
-The whole BParking dataset.
+The whole ParkingBPH dataset.
 
 ## The files
 
